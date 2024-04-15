@@ -1,4 +1,4 @@
-# Tamper Proof Data - Bequest-Finance-Interview
+# Tamper Proof Data
 
 **1. How does the client ensure that their data has not been tampered with?**
 
